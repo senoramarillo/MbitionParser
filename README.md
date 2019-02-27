@@ -12,4 +12,5 @@ Requirements:
 
 Usage:
 > mvn clean install
+
 > java -jar target/mbit-1.0-SNAPSHOT-jar-with-dependencies.jar
