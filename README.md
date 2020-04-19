@@ -10,7 +10,7 @@ Requirements:
 - Maven 3
 - Java 8
 
-Usage:
+Usage: (no POM.xml)
 > mvn clean install
 
 > java -jar target/mbit-1.0-SNAPSHOT-jar-with-dependencies.jar
